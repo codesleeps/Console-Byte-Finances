@@ -1,2 +1,3 @@
-# Console-Finances
+# Console-Byte-Finances
+
 JS Challenge
