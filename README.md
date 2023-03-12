@@ -23,10 +23,10 @@ console.log(sentence);
 ```
 
 
-> Console Output
+> Console Output 🔥
 > 
 ![Screenshot 2023-03-12 at 04 24 07](https://user-images.githubusercontent.com/125808990/224524278-caede286-05a1-4d55-844c-9421b553dc83.png)
 
-> Completed 
+> Completed ♦︎
 > 
 ![Screenshot 2023-03-12 at 04 28 36](https://user-images.githubusercontent.com/125808990/224524409-cc6ea40f-ac35-4626-ba50-424fd94cc415.png)
