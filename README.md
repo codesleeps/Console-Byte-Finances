@@ -32,4 +32,4 @@ console.log(sentence);
 ![Screenshot 2023-03-12 at 04 28 36](https://user-images.githubusercontent.com/125808990/224524409-cc6ea40f-ac35-4626-ba50-424fd94cc415.png)
 
 
-Resources I used for this project [John Smilga - Coding Addict] (https://www.youtube.com/watch?v=2Ji-clqUYnA&t=23812s)  👀 🎯
+Resources I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals (https://www.youtube.com/watch?v=2Ji-clqUYnA&t=23812s)  👀 🎯
