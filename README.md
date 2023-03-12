@@ -23,7 +23,7 @@ console.log(sentence);
 ```
 
 
-> Console Output 🔥
+> Code for console output 🔥
 > 
 ![Screenshot 2023-03-12 at 04 24 07](https://user-images.githubusercontent.com/125808990/224524278-caede286-05a1-4d55-844c-9421b553dc83.png)
 
