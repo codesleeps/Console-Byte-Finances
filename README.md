@@ -2,7 +2,7 @@
 
 ## Data Analaysis - JavaScript ✅
 
-> Calculate the following:
+> Calculate the following: from dataset provided
 - [x] The total number of months 
 - [x] The net total amount of Profit/Losses 
 - [x] The average changes in Profit/Losses 
@@ -11,10 +11,12 @@
 
 
 
-### Template Literals 
+### Template Literal Example
+    
 ```
 const Fullname = 'john shrimp taco VI';
- const age = 27;
- const sentence = `I am ${Fullname} and I am ${age} years old. And here is some simple math ${2.3 * 3.9}`;
-  console.log(sentence);
+const age = 27;
+const sentence = `I am ${Fullname} and I am ${age} years old. And here is some simple math ${2.3 * 3.9}`;
+console.log(sentence);
 ```
+
