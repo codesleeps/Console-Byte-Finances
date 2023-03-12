@@ -11,10 +11,10 @@
 
 
 
-### Template Literal Example
+### Template Literal Example 🗣️
     
 ```
-const Fullname = 'john shrimp taco VI';
+const Fullname = 'john shrimp 🍤 taco 🌮 VI'; 
 const age = 27;
 const sentence = `I am ${Fullname} and I am ${age} years old. And here is some simple math ${2.3 * 3.9}`;
 console.log(sentence);
