@@ -18,5 +18,7 @@ const Fullname = 'john shrimp taco VI';
 const age = 27;
 const sentence = `I am ${Fullname} and I am ${age} years old. And here is some simple math ${2.3 * 3.9}`;
 console.log(sentence);
+
+// I am john shrimp taco VI and I am 27 years old. And here is some simple math 14.6
 ```
 
