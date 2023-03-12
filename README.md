@@ -1,6 +1,6 @@
-# Console-Byte-Finances
+# Console-Byte-Finances 🎯
 
-## Data Analaysis - JavaScript 
+## Data Analaysis - JavaScript ✅
 
 > Calculate the following:
 - [x] The total number of months 
