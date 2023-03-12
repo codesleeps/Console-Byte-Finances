@@ -22,7 +22,6 @@ console.log(sentence);
 // I am john shrimp taco VI and I am 27 years old. And here is some simple math 14.6 
 ```
 
-Screenshots
 
 > Console Output
 > 
