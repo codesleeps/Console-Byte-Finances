@@ -33,4 +33,4 @@ console.log(sentence);
 
 
 Resources I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals (https://www.youtube.com/watch?v=2Ji-clqUYnA&t=23812s)  👀 🎯
-### LOOK OUT FOR 15 VANILLA JAVASCRIPT PROJECTS [John Smilga] ()
+### CHECK OUT 15 VANILLA JAVASCRIPT PROJECTS [John Smilga] (https://github.com/yinsweet/JohnSmilga-JS-Basic-Proj) 🔥
