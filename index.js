@@ -138,7 +138,7 @@ console.log(`Greatest Decrease in Profits/Losses: ${greatestDecrease[0]} (${grea
 
 
 
-// MY IDE IS AWESOME!
+// MY IDE IS AWESOME! VS CODE 🦾
 // template literals
 // const Fullname = 'john shrimp taco VI';
 // const age = 27;
