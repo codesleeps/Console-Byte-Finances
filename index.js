@@ -87,18 +87,18 @@ const finances = [
   ['Jan-2017', 138230],
   ['Feb-2017', 671099],
 ];
-// Calculate the number of months in finances
+// Calculate the number of months in finances 🤖
 const totalMonths = finances.length;
 // console.log(totalMonths);
 
-// calculate the net total amount of Profit/Losses for entire period
+// calculate the net total amount of Profit/Losses for entire period 🤖
 let netTotal = 0;
 for (let i = 0; i < totalMonths; i++) {
   netTotal += finances[i][1];
   // console.log(finances[i][1]);
 }
 
-// calculate the average change in Profit/Losses for entire period
+// calculate the average change in Profit/Losses for entire period 🤖
 let totalChange = 0;
 for (let i = 1; i < totalMonths; i++) {
   totalChange += finances[i][1] - finances[i - 1][1];
@@ -107,7 +107,7 @@ for (let i = 1; i < totalMonths; i++) {
 const averageChange = (totalChange / (totalMonths - 1)).toFixed(2);
 // console.log(averageChange);
 
-// calculate the greatest increase in profits (date & amount) for entire period
+// calculate the greatest increase in profits (date & amount) for entire period 🤖
 let greatestIncrease = ['', 0];
 for (let i = 1; i < totalMonths; i++) {
   const increase = finances[i][1] - finances[i - 1][1];
@@ -115,9 +115,9 @@ for (let i = 1; i < totalMonths; i++) {
     greatestIncrease = [finances[i - 1][0], increase];
   }
 }
-// console.log(greatestIncrease);
+// console.log(greatestIncrease); 🤖
 
-// calculate the greatest decrease in losses (date & amount) for entire period
+// calculate the greatest decrease in losses (date & amount) for entire period 🤖
 let greatestDecrease = ['', 0];
 for (let i = 1; i < totalMonths; i++) {
   const decrease = finances[i][1] - finances[i - 1][1];
@@ -127,7 +127,7 @@ for (let i = 1; i < totalMonths; i++) {
 }
 // console.log(greatestDecrease);
 
-// output the results to the console using console.log with template literals (${}) you gotta luv em!
+// output the results to the console using console.log with template literals (${}) you gotta luv em! 🤖
 console.log('Financial Analysis');
 console.log('-------------------');
 console.log(`Total Months: ${totalMonths}`);
@@ -142,7 +142,7 @@ console.log(`Greatest Decrease in Profits/Losses: ${greatestDecrease[0]} (${grea
 // template literals
 // const Fullname = 'john shrimp taco VI';
 // const age = 27;
-// const sentence = `I am ${Fullname} and I am ${age} years old. And here is some simple math ${2.3 * 3.9}`;
+// const sentence = `I am ${Fullname} and I am ${age} years old. And here is some simple math ${2.3 * 3.9}`; 🤖
 //  console.log(sentence);
 
 
