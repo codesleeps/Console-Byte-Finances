@@ -33,11 +33,11 @@ console.log(sentence);
 
 > Code for console output 🔥
 > 
-![Screenshot 2023-03-12 at 04 24 07](https://user-images.githubusercontent.com/125808990/224524278-caede286-05a1-4d55-844c-9421b553dc83.png)
+[Output Snippet](https://user-images.githubusercontent.com/125808990/224524278-caede286-05a1-4d55-844c-9421b553dc83.png)
 
 > Completed 🦾
 > 
-![Screenshot 2023-03-12 at 04 28 36](https://user-images.githubusercontent.com/125808990/224524409-cc6ea40f-ac35-4626-ba50-424fd94cc415.png)
+[Finished Version 1.0.0](https://user-images.githubusercontent.com/125808990/224524409-cc6ea40f-ac35-4626-ba50-424fd94cc415.png)
 
 
 Resources I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals (https://www.youtube.com/watch?v=2Ji-clqUYnA&t=23812s)  👀 🎯
