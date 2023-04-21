@@ -1,14 +1,8 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#console-byte-finances-)
-
-# ➤ Console-Byte-Finances 🎯
+# Console-Byte-Finances 🎯
 
 https://codesleeps.github.io/Console-Byte-Finances/
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#data-analaysis---javascript-)
-
-## ➤ Data Analaysis - JavaScript ✅
+## Data Analaysis - JavaScript ✅
 
 > Calculate the following: from dataset provided
 - [x] The total number of months 
