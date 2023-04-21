@@ -80,10 +80,14 @@ console.log(sentence);
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
 
 
-Resources I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals (https://www.youtube.com/watch?v=2Ji-clqUYnA&t=23812s)  👀 🎯
+Resources I used for this project 
+
+[John Smilga - Coding Addict](https://www.youtube.com/watch?v=2Ji-clqUYnA&t=23812s)  👀 🎯
 
 #### Example screenshot from video - JavaScript Fundamentals 🔥
 
 [Snippet](https://user-images.githubusercontent.com/125808990/224526804-3b9103ef-d3b4-4cc5-934e-a8bfe4738c64.png)
 
-### CHECK OUT 15 VANILLA JAVASCRIPT PROJECTS [John Smilga] (https://github.com/yinsweet/JohnSmilga-JS-Basic-Proj) 🔥
+### CHECK OUT 15 VANILLA JAVASCRIPT PROJECTS 
+
+[John Smilga](https://github.com/yinsweet/JohnSmilga-JS-Basic-Proj) 🔥
