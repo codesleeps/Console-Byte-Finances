@@ -40,6 +40,46 @@ console.log(sentence);
 [Finished Version 1.0.0](https://user-images.githubusercontent.com/125808990/224524409-cc6ea40f-ac35-4626-ba50-424fd94cc415.png)
 
 
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#microsoft-learn-)
+
+## ➤ Microsoft Learn ✅
+
+[achievementsTrophy](https://user-images.githubusercontent.com/125808990/226473105-96a90167-8ca6-4897-8746-ab92653da446.png)
+
+[achievmentsMoules1](https://user-images.githubusercontent.com/125808990/226473129-f310796d-08b0-408e-8670-996c6dba5615.png)
+
+[achievementsModule2](https://user-images.githubusercontent.com/125808990/226473142-e8869831-ae96-4667-af2e-5828c477256b.png)
+
+[achievementsModule3](https://user-images.githubusercontent.com/125808990/226473163-eee6dc4c-8abb-4a83-b166-3127f2d67f41.png)
+
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code---extensions)
+
+## ➤ VS Code - Extensions
+
+- [x] Quokka.js 🤖
+- [x] ESLint 🔥
+- [x] JavaScript (ES6) 
+- [x] Prettier 🔥
+- [x] Tabnine 🤖
+
+
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
+
+## ➤ Additional resources
+
+- [Coding Addict](https://johnsmilga.com)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Java Point](https://www.javatpoint.com/jquery-example)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/jquery-examples/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
+
+
 Resources I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals (https://www.youtube.com/watch?v=2Ji-clqUYnA&t=23812s)  👀 🎯
 
 #### Example screenshot from video - JavaScript Fundamentals 🔥
