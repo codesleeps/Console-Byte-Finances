@@ -3,6 +3,8 @@
 
 # ➤ Console-Byte-Finances 🎯
 
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
 https://codesleeps.github.io/Console-Byte-Finances/
 
 
