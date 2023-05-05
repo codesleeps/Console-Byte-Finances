@@ -5,7 +5,7 @@
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
-https://codesleeps.github.io/Console-Byte-Finances/
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#data-analaysis---javascript-)
@@ -21,7 +21,7 @@ https://codesleeps.github.io/Console-Byte-Finances/
 
 
 
-### Template Literal Example 🗣️
+### ➤ Template Literal Example 🗣️
     
 ```
 const Fullname = 'john shrimp 🍤 taco 🌮 VI'; 
